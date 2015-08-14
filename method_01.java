@@ -5,7 +5,7 @@ public class method_01 {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("請輸入一串數字(每個數字為0~9)");
 		String a=scn.nextLine();
-		System.out.print(fun1(a/*可以亂設一個代號*/));
+		System.out.print(fun1(a/*a為使用者輸入的字串*/));
 		//列印出丟到fun1運算之後  得到return sum(回傳的東西)
 		/*char b [] = a.toCharArray();
 		int aa[]=new int[b.length];
