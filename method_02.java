@@ -7,8 +7,8 @@ public class method_02 {
 		float a=scn.nextFloat();
 		float b=scn.nextFloat();
 		float c=scn.nextFloat();
-		System.out.println(fun1(a,b,c));
-		System.out.println(fun2(a,b,c));
+		System.out.println("Á`©M="+fun1(a,b,c));
+		System.out.println("¥­§¡="+fun2(a,b,c));
 	}
 	
 	public static float fun1(float a,float b,float c){
